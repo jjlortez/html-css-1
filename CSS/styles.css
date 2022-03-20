@@ -1,0 +1,8 @@
+/* color palette will be first */
+html {
+  box-sizing: border-box;
+}
+*, *;before, *:after {
+  box-sizing: inherit;
+}
+  
